@@ -40,6 +40,7 @@
 		1D9AE8ED21423C7E00080475 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		1D9AE8EE21423C7E00080475 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		1D9AE8FC21423C9200080475 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		48B2DDE9286209EF00D2DDF6 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		6A561CD5219BB58300E3749A /* ALGoogleMediationAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALGoogleMediationAdapter.m; sourceTree = "<group>"; };
 		6A561CD6219BB58300E3749A /* ALGoogleMediationAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALGoogleMediationAdapter.h; sourceTree = "<group>"; };
 		6A561CEF219BB5D400E3749A /* libGoogleAdapter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libGoogleAdapter.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +103,7 @@
 		6A12947F21C086760052F283 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				48B2DDE9286209EF00D2DDF6 /* Package.swift */,
 				6A5A632F21C0872D00B755D7 /* AppLovinMediationGoogleAdapter.podspec */,
 				6A5A632E21C0872C00B755D7 /* CHANGELOG.md */,
 			);
