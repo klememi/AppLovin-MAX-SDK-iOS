@@ -11,7 +11,7 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "git@github.com:googleads/swift-package-manager-google-mobile-ads.git", .exact("9.6.0")),
-		.package(url: "git@github.com:AppLovin/AppLovin-MAX-Swift-Package.git", .exact("11.4.1"))
+		.package(url: "git@github.com:AppLovin/AppLovin-MAX-Swift-Package.git", .exact("11.4.2"))
 	],
 	targets: [
 		.binaryTarget(
